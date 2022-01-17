@@ -1,0 +1,21 @@
+Questions:
+only consider 2020 data
+3) url processing: tld, subdomain, suffix, cart/ssh/etc
+
+5) most commonly visited website - top level domain
+6) how to measure most commonly visited + week over week trend
+- no of unique visits, or no of unique users, or no of unique visits in 1 day
+
+
+metrics: 
+1) no of unique users per day/week - trend, 
+by week: add the daily unique visitors per day
+5) general commentary on users: no of website visited per day, no of pages visited per website by user, time spent by user
+ -- high level overall
+2) avg no of pages visited per user - engagement 
+- look at this for top 25 website
+
+3) time spent? hard to quantify
+4) for the top websites: look at how many other websites visited 
+  by the same user on that day
+6) user session analysis: How to define a user Session?
